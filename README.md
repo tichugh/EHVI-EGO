@@ -1,5 +1,3 @@
 # EHVI-EGO
 
-A simple implementation of EHVI-EGO.
-I used CMA-ES to optimise EHVI. 
-The code has both analytical (for 2 objectives) and monte carlo (any number of objectives) for EHVI calculations
+An implementation of EHVI-EGO. The code uses analytical formula for 2 objectives and Monte Carlo (with conditional posterior sampling) for >=2 objectives.
